@@ -6,7 +6,7 @@ DISCLAIMER: This project is a WIP.
 However, we are also required create our own Github account and repository. This also serves as an exercise for us to learn how to navigate and utilize Github. 
 
 Before:
-![image](https://github.com/user-attachments/assets/1dede803-7747-43ec-9636-1783771b686a)
+![image](https://github.com/user-attachments/assets/232f8109-b5a8-4a9f-9161-619c6cdc5ee3)
 
 After:
 ![image](https://github.com/user-attachments/assets/a52ac356-59a1-4914-a30f-2f4c12057721)
